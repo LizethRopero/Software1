@@ -2,3 +2,4 @@ Mango
 Guayaba
 Pera
 Manzana
+Banano
